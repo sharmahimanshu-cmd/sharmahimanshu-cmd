@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Himanshu Sharma 👋
 
-<!--
-**sharmahimanshu-cmd/sharmahimanshu-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Curious professional who enjoys building and learning in public. Currently exploring Python, AI tools, and workflow automation.
 
-Here are some ideas to get you started:
+## 🔭 Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building small projects to sharpen my Python skills, and exploring AI-assisted workflows and everyday automation.
+
+## 🛠️ Tools & Technologies
+
+Python · Git & GitHub · AI tools · Automation
+
+## 📫 How to reach me
+
+Email: sharma.himanshu@imarticus.com
+
+⭐ Thanks for stopping by — feel free to explore my repositories.
