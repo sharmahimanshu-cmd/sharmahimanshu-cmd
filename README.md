@@ -1,28 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8871e5,100:b678c4&height=200&section=header&text=Himanshu%20Sharma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20%E2%80%A2%20AI%20Tools%20%E2%80%A2%20Automation&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8871e5,100:b678c4&height=200&section=header&text=Himanshu%20Sharma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Delivery%20Governance%20%E2%80%A2%20Executive%20Education%20%E2%80%A2%20AI%20Automation&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://github.com/sharmahimanshu-cmd"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&color=8871E5&lines=Hi+there%2C+I'm+Himanshu+Sharma+%F0%9F%91%8B;Tech+Explorer+%7C+AI+Enthusiast+%F0%9F%A4%96;Building+%26+Learning+in+Public+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://github.com/sharmahimanshu-cmd"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&color=8871E5&lines=Delivery+Governance+Manager+%40+Imarticus+Learning;Orchestrating+Executive+Education+at+Scale+%F0%9F%8E%93;Automating+Program+Ops+with+AI+%F0%9F%A4%96;Building+%26+Learning+in+Public+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=sharmahimanshu-cmd&style=for-the-badge&color=8871e5" alt="Profile views"/>
 
 </div>
 
-## 🚀 About Me
+## 💼 About Me
 
-🔭 Currently building small projects to sharpen my **Python** skills<br>
-🌱 Exploring **AI-assisted workflows** and everyday **automation**<br>
-💡 I believe the best way to learn is to **build in public**<br>
-📫 Reach me at **sharma.himanshu@imarticus.com**<br>
-⚡ Fun fact: my AI copilots never sleep 🤖
+🎯 **Delivery Governance Manager** at **Imarticus Learning** — Executive Education<br>
+🎓 Orchestrating executive programs delivered in collaboration with **IIM Lucknow, IIM Indore, IIT Roorkee & KPMG** — leadership, AI-in-business, CFO, and project-management cohorts<br>
+📊 Owning **end-to-end program governance**: batch operations, examinations & proctoring, faculty management, fee & MIS reporting across multiple concurrent cohorts<br>
+🤝 Driving cross-functional coordination between premier institutes, faculty, vendors, and senior-professional learners<br>
+🤖 Championing **AI-assisted operations** — building Claude-powered workflows that automate trackers, communications, and reporting<br>
+🌱 Currently sharpening my **Python** skills to take that automation further
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux,bash,html,css,js&perline=9" alt="Tech stack"/>
 
+<br><br>
+
+<img src="https://img.shields.io/badge/Claude_AI-8871e5?style=for-the-badge" alt="Claude AI"/> <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Workspace"/> <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="Zoom"/> <img src="https://img.shields.io/badge/MIS_%26_Dashboards-b678c4?style=for-the-badge" alt="MIS"/>
+
 </div>
+
+## 🚧 What I'm Building
+
+⚙️ **AI-powered ops automation** — Claude skills for document generation, MCP integrations, and workflow automation (see my [Claude repo](https://github.com/sharmahimanshu-cmd/Claude))<br>
+📈 **Delivery governance systems** — batch trackers, payment & referral pipelines, and training-summary dashboards that keep multi-institute programs running smoothly
 
 ## 📊 GitHub Stats
 
@@ -59,6 +69,7 @@
 
 <a href="mailto:sharma.himanshu@imarticus.com"><img src="https://img.shields.io/badge/Email-8871e5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/sharmahimanshu-cmd"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.imarticus.org"><img src="https://img.shields.io/badge/Imarticus_Learning-b678c4?style=for-the-badge" alt="Imarticus"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8871e5,100:b678c4&height=120&section=footer" width="100%"/>
 
